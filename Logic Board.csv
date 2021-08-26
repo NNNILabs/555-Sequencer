@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC Part #
+1uF Unpolarized capacitor,"C1,C15",C_0603_1608Metric,C15849
+1nF Unpolarized capacitor,"C2,C4,C6",C_0603_1608Metric,C1588
+10nF Unpolarized capacitor,"C3,C5,C7",C_0603_1608Metric,C57112
+100nF Unpolarized capacitor,"C8,C9,C10,C11,C12,C13",C_0603_1608Metric,C14663
+4148 Diode,"D1,D2",D_SOD-323,C2128
+"IO Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J1,PinSocket_2x05_P2.54mm_Vertical,
+100K Resistor,"R1,R3,R4,R13",R_0603_1608Metric,C25803
+10K Resistor,"R5,R8,R9,R11,R14",R_0603_1608Metric,C25804
+1K Resistor,"R6,R12",R_0603_1608Metric,C21190
+"TLC555xD Single LinCMOS Timer, 555 compatible, SOIC-8","U1,U2,U3,U4",SOIC-8_3.9x4.9mm_P1.27mm,C6986
+"L78L05 Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89",U5,SOT-89-3,C71136
